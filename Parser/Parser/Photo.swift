@@ -8,6 +8,7 @@
 
 import Foundation
 
+// server ereditare da NSObject per avere KVC su description del dizionario
 class Photo : NSObject {
     
     var titolo : String
