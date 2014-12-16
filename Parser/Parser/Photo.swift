@@ -8,7 +8,7 @@
 
 import Foundation
 
-class Photo : NSObject {
+class Photo {
     
     var titolo : String
     var autore : String
